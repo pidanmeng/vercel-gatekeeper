@@ -1,0 +1,16 @@
+{
+  "name": "vercel-gatekeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vercel dev",
+    "deploy": "vercel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vercel": "^28.1.3"
+  }
+}
